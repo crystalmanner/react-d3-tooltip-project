@@ -8,7 +8,7 @@ For analising market purchasing power, fan chart and tooltip is used.
 To run this project, yarn have to be installed first.
 
 ## Screenshot
-![alt text](https://github.com/crystalmanner/react-d3-tooltip-project/screenshot/Screenshot.png)
+![alt text](https://github.com/crystalmanner/react-d3-tooltip-project/blob/master/screenshot/Screenshot.png)
 
 ## Input data format
 ```typescript
