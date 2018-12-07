@@ -1,7 +1,8 @@
 # D3 Chart UI
 For analising market purchasing power, fan chart and tooltip is used.
+In this project, I combined react.js and d3.js.
 * Source code path: `src/charts`
-* Storybook code path: `stories/charts`
+* ChartUI code path: `stories/charts`
 
 ## Installation
 
@@ -22,14 +23,3 @@ const data = {
     'verticalLine' : [['2018-03-01', 0], ['2018-03-01', 280.0]],
  };
 ```
-
-## Build
-This script will install all the project dependencies, compile the code and create a docker image with a local webserver.
-
-    bash build.sh
-
-> The build script will work only on linux. (maybe on mac, I've never tried)
-
-**Useful commands**
-- `npm run storybook` - Start the storybook app
-- `npm run build-storybook` - Compile the Storybook app
